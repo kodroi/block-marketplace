@@ -1,0 +1,17 @@
+{
+  "name": "claude-block-marketplace",
+  "owner": {
+    "name": "Iiro Rahkonen"
+  },
+  "description": "Directory protection tools for Claude Code",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "claude-block",
+      "version": "1.0.0",
+      "description": "File and directory protection using .claude-block marker files",
+      "repository": "https://github.com/iirorahkonen/claude-block",
+      "strict": true
+    }
+  ]
+}
