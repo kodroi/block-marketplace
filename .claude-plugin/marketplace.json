@@ -14,7 +14,7 @@
       "description": "File and directory protection using .block configuration files",
       "source": {
         "source": "url",
-        "url": "https://github.com/iirorahkonen/block.git"
+        "url": "https://github.com/kodroi/block.git"
       },
       "strict": true
     }

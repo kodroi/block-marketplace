@@ -6,7 +6,7 @@ A Claude Code plugin marketplace for directory protection tools.
 
 1. Add the marketplace:
    ```
-   /plugin marketplace add iirorahkonen/block-marketplace
+   /plugin marketplace add kodroi/block-marketplace
    ```
 
 2. Install the plugin:
