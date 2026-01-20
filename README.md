@@ -1,4 +1,4 @@
-# block-marketplace
+# Block marketplace
 
 A Claude Code plugin marketplace for directory protection tools.
 
