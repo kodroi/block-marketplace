@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "block",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "description": "File and directory protection using .block configuration files",
       "source": {
         "source": "url",
